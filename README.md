@@ -28,6 +28,10 @@ Hi there! I'm Rhea, a passionate developer, AI enthusiast, and cloud practitione
 <img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/LLaMA-FF4500?s
 
+Over 26 years of experience in IT/cybersecurity, banking, accounting, and compliance, including 8 years with Deloitte, 6 years with Citi, and 3 years with FDIC.  Currently responsible for leading strategic initiatives on proposed rulemaking and System point of contact for interagency policy matters related cybersecurity and operational resilience risk.
+
+
+
 - 🔭 I’m currently working on ... learning 
 - 🌱 I’m currently learning vibe coding
 - 👯 I’m looking to collaborate on projects
