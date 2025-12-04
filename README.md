@@ -21,6 +21,7 @@ I bridge the gap between **regulatory authority** and **technical reality**—tr
 
 **University of Guam** — BBA, Accounting Major & Management Minor, *Summa Cum Laude*  
 **UT Austin** — Post Graduate Program in Artificial Intelligence and Machine Learning  
+**MIT xPRO** — Quantum Computing Fundamentals  
 **SANS Technology Institute** — Applied Cybersecurity Undergraduate Certificate---
 
 ### 🏅 Certifications
