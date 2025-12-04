@@ -1,4 +1,4 @@
-# Hi, I'm Rhea Nygard 👋
+# Hi, I'm Rhea 👋
 
 **Cybersecurity & Operational Resilience Policy Expert** | Regulator | Banker | Auditor | Technologist
 
