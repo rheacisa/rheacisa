@@ -1,40 +1,68 @@
-Hi there! I'm Rhea, a passionate developer, AI enthusiast, and cloud practitioner. I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
-Over 26 years of experience in IT/cybersecurity, banking, accounting, and compliance, including 8 years with Deloitte, 6 years with Citi, and 3 years with FDIC.  Currently responsible for leading strategic initiatives on proposed rulemaking and System point of contact for interagency policy matters related cybersecurity and operational resilience risk.
+# Hi, I'm Rhea Nygard 👋
 
-## 🛠️ Tech Stack
-### 🔹 Programming & Core Concepts
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-### ☁️ Cloud & DevOps
-<p align="left">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
-### 🤖 AI & Machine Learning
-<p align="left">
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
-### 🏛️ Large Language Models (LLMs)
-<p align="left">
-<img src="https://img.shields.io/badge/GPT-005571?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/LLaMA-FF4500?s
+**Cybersecurity & Operational Resilience Policy Expert** | Regulator | Banker | Auditor | Technologist
 
+I bridge the gap between **regulatory authority** and **technical reality**—translating complex risks in AI, Quantum, Blockchain, and Cyber into actionable policy for the financial system.
 
-- 🔭 I’m currently working on ... learning 
-- 🌱 I’m currently learning vibe coding
-- 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏛️ 26+ Years Across Four Domains
+
+| Role | Focus |
+|------|-------|
+| **Regulator** | Cybersecurity policy, operational resilience, interagency coordination |
+| **Banker** | Product management, payments, system conversions |
+| **Auditor** | Financial institution audits, IT controls, compliance |
+| **Technologist** | AI, Cloud, Quantum, Blockchain—hands-on certifications |
+
+---
+
+### 🎓 Education
+
+**University of Guam** — BBA, Accounting Major & Management Minor, *Summa Cum Laude*  
+**UT Austin** — Post Graduate Program in Artificial Intelligence and Machine Learning  
+**SANS Technology Institute** — Applied Cybersecurity Undergraduate Certificate---
+
+### 🏅 Certifications
+
+<p>
+<img src="https://img.shields.io/badge/GCIH-Incident%20Handler-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/CISA-ISACA-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/CPA-Certified-green?style=flat-square" />
+<img src="https://img.shields.io/badge/CAMS-AML-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-AI%20%26%20Data-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-Digital%20Leader-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/CCZT-Zero%20Trust-red?style=flat-square" />
+<img src="https://img.shields.io/badge/CCSK-Cloud%20Security-lightblue?style=flat-square" />
+</p>
+
+---
+
+### 🌐 Global Policy Experience
+
+- **G7 Cyber Experts Group** — Emerging Technology workstream
+- **Basel Committee (BCBS)** — Operational Resilience Group
+- **IAIS Insurance Task Force** — Cybersecurity regulations
+
+---
+
+### 🎤 Thought Leadership
+
+- Translated complex TPRM guidance for diverse audiences: industry webinars (2,200+ attendees), examiner training, and office hours
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [**Harvest Now, Decrypt Later**](https://github.com/rheacisa/harvest_now) | Quantum threat demonstrator showing "Harvest Now, Decrypt Later" attacks and Post-Quantum Cryptography (PQC) solutions |
+| [**Interactive Portfolio**](https://rheacisa.github.io) | Career timeline with digital twin chat and secure client-side architecture |
+| [**CV-Flix**](https://rheacisa.github.io/cv-flix/) | Netflix-inspired resume with interactive design |
+
+---
+
+### 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhea-nygard/)
