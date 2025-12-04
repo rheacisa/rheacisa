@@ -26,17 +26,23 @@ I bridge the gap between **regulatory authority** and **technical reality**—tr
 
 ### 🏅 Certifications
 
-<p>
+**Security & Audit**  
 <img src="https://img.shields.io/badge/GCIH-Incident%20Handler-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/CISA-ISACA-purple?style=flat-square" />
-<img src="https://img.shields.io/badge/CPA-Certified-green?style=flat-square" />
-<img src="https://img.shields.io/badge/CAMS-AML-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-AI%20%26%20Data-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Cloud-Digital%20Leader-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/CCZT-Zero%20Trust-red?style=flat-square" />
 <img src="https://img.shields.io/badge/CCSK-Cloud%20Security-lightblue?style=flat-square" />
-</p>
+
+**Cloud**  
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-Digital%20Leader-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+
+**AI & Data**  
+<img src="https://img.shields.io/badge/Azure-AI%20Fundamentals-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-Data%20Fundamentals-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+
+**Finance & Compliance**  
+<img src="https://img.shields.io/badge/CPA-Certified-green?style=flat-square" />
+<img src="https://img.shields.io/badge/CAMS-AML-orange?style=flat-square" />
 
 ---
 
